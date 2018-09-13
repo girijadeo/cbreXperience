@@ -20,7 +20,7 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.touch.offset.PointOption;
 
 
-public class FirstTest {
+public class cbreXperience {
 
 //    WebDriver driver;
 //    private RemoteWebDriver driver;
@@ -139,7 +139,7 @@ public class FirstTest {
 //    //        Thread.sleep(2000);
 //            //Click on Continue
 //            touchAction.tap(PointOption.point(103, 1281)).perform();
-    
+
     //        List<WebElement> wele = driver.findElements(By.xpath("//android.view.ViewGroup[@content-desc='Angry']"));
 
 
